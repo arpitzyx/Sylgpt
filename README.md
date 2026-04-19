@@ -1,4 +1,4 @@
-# 🚀 Sylgpt
+# Sylgpt
 
 **An open-source AI for templates and designs**  
 Highly customizable • Free to use • Try it now  
@@ -25,9 +25,6 @@ Highly customizable • Free to use • Try it now
   <img src="assets/Screenshot 2026-04-19 203751.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/Screenshot 2026-04-19 203852.png" width="100%" />
-</p>
 
 <p align="center">
   <img src="assets/Screenshot 2026-04-19 203903.png" width="100%" />
