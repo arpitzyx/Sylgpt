@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SylGPT - Advanced AI Assistant</title>
+  <title>SylGPT</title>
   <script src="https://js.puter.com/v2/"></script>
-  <!-- Firebase SDK -->
+
   <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-firestore-compat.js"></script>
-  <!-- Markdown Parser -->
+
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <!-- Code Highlighting -->
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-  <!-- PDF.js for PDF text extraction -->
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
-  <!-- Icons -->
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     * {
@@ -2185,19 +2185,7 @@
     document.addEventListener('DOMContentLoaded', updateChatInputVisibility);
     
     // Firebase configuration
-    const firebaseConfig = {
-      apiKey: "AIzaSyB9uM-rqTE7odU6F577A3HabO-gOTN4BZE",
-      authDomain: "sylgpt-ai.firebaseapp.com",
-      projectId: "sylgpt-ai",
-      storageBucket: "sylgpt-ai.firebasestorage.app",
-      messagingSenderId: "697284273391",
-      appId: "1:697284273391:web:eb01c1817fc2998a6ba71a",
-      measurementId: "G-2GJZ35FM4L"
-    };
-
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
-    const db = firebase.firestore();
+    // Initialize Firebas
 
     // DOM Elements
     const chatMessages = document.getElementById('chatMessages');
@@ -3611,7 +3599,6 @@
       }
     }
 
-    // Initialize the app
     init();
 </script>
 </body>
