@@ -44,11 +44,12 @@ Highly customizable • Free to use • Try it now
 -  Open-source  
 
 ---
+## Note
+- host index.html in a python or any other server before using as it wont wroker in local browser or if u wanna preview check this site  <a href="https://arpitzyx.github.io/Sylgpt/"> click here </a> 
+or https://arpitzyx.github.io/Sylgpt/
 
 ##  Getting Started
 
 ```bash
 git clone https://github.com/arpitzyx/Sylgpt.git
 cd Sylgpt
-host index.html in a python or any other server before using as it wont wroker in local browser or if u wanna preview check this site  <a href="https://arpitzyx.github.io/Sylgpt/"> click here</a> 
-or https://arpitzyx.github.io/Sylgpt/
