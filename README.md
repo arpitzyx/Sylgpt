@@ -48,6 +48,26 @@ Highly customizable • Free to use • Try it now
 - host index.html in a python or any other server before using as it wont wroker in local browser or if u wanna preview check this site  <a href="https://arpitzyx.github.io/Sylgpt/"> click here </a> 
 or https://arpitzyx.github.io/Sylgpt/
 
+##  License & Usage
+
+This project is licensed under the GNU GPL v3.0.
+
+You are allowed to:
+
+* Use this project
+* Modify it
+* Share it
+
+But you MUST:
+
+* Give proper credit to **Arpit** (https://github.com/arpitzyx)
+* Keep your project open-source under the same GPL-3.0 license
+
+You are NOT allowed to:
+
+* Use this project in closed-source or proprietary software
+* Remove original credits
+
 ##  Getting Started
 
 ```bash
